@@ -8,8 +8,8 @@
 // @connect      api.vrclist.com
 // @grant        GM_xmlhttpRequest
 // @grant        window.focus
-// @updateURL
-// @downloadURL
+// @updateURL    https://raw.githubusercontent.com/TomatenTim/tampermonkey-scripts/main/vrchat/vrchat-toolkit.js
+// @downloadURL  https://raw.githubusercontent.com/TomatenTim/tampermonkey-scripts/main/vrchat/vrchat-toolkit.js
 // ==/UserScript==
 
 
