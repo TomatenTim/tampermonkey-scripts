@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         VRChat Toolkit
 // @namespace    https://vrchat.com/
-// @version      0.1
+// @version      0.1.1
 // @description  Simple toolkit for the VRChat homepage
 // @author       TomatenTim
 // @match        https://vrchat.com/*
@@ -168,7 +168,6 @@ async function resolveWorldID2VRCListID(id) {
     return data[0].id;
 
   } catch (e) {
-    GM_log(e.message)
     return null
   }
 }
