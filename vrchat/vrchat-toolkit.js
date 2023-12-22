@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         VRChat Toolkit
-// @namespace    https://vrchat.com/
-// @version      0.1.1
+// @namespace    https://github.com/TomatenTim/tampermonkey-scripts
+// @version      0.1.
 // @description  Simple toolkit for the VRChat homepage
 // @author       TomatenTim
 // @match        https://vrchat.com/*
